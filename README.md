@@ -3,7 +3,7 @@
 ## Overview
 This repository contains an in-depth analysis of employee performance data, aimed at uncovering key insights that can help organizations improve workforce management, productivity, and employee satisfaction. The dataset includes a range of factors like employee demographics, performance scores, compensation, and tenure, among others.
 
-The analysis was performed using Python and various data visualization tools, with the goal of identifying patterns and correlations between performance and other key metrics.
+The analysis was performed using Python, Power BI, DAX, Power Query with the goal of identifying patterns and correlations between performance and other key metrics.
 
 ## Dataset
 The dataset used in this project is sourced from Kaggle and includes the following columns:
